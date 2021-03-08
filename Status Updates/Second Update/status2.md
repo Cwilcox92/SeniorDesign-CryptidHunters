@@ -30,25 +30,25 @@ Our quantifiable metric was to get the Network built and AI started.
 - Connect sensors to state machine
 
 ### Brandon:
-Implement other resource node generation like trees, rocks and grass all with different but realistic distributions.
-Implement base camp placement
+- Implement other resource node generation like trees, rocks and grass all with different but realistic distributions.
+- Implement base camp placement
 
 ### Carlton:
-Finish network connections 
-Work on player spawn with Brandon
-Start work on object interactions
-Inventory system/crafting
-Work on menus with James
-Sound integration
+- Finish network connections 
+- Work on player spawn with Brandon
+- Start work on object interactions
+- Inventory system/crafting
+- Work on menus with James
+- Sound integration
 
 ### James:
-Fix Camera Occlusion (rendering only what is needed)
-Add Grass that reacts to player movement
-Make four player characters and Sasquatch
-Inventory System/crafting/menus with Carlton
-Create 3D Objects such as Trees, Food Sources, Tent, Fire, Boulders 
-Aid in building sensors with Andey
-Research Water Mechanics
+- Fix Camera Occlusion (rendering only what is needed)
+- Add Grass that reacts to player movement
+- Make four player characters and Sasquatch
+- Inventory System/crafting/menus with Carlton
+- Create 3D Objects such as Trees, Food Sources, Tent, Fire, Boulders 
+- Aid in building sensors with Andey
+- Research Water Mechanics
 
 ## Confidence Levels
 | Name | Confidence |
