@@ -4,4 +4,4 @@
   - [Video Discussion](https://youtu.be/uEUXfpqvRkE)
 
 - [Update Two](https://github.com/JSchuch2/SeniorDesign-CryptidHunters/blob/main/Status%20Updates/Second%20Update/status2.md)
-  - [Video Discussion](-)
+  - [Video Discussion](https://youtu.be/Tit6x9mfYM0)
