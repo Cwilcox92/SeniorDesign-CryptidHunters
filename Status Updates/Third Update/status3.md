@@ -10,7 +10,7 @@ Our quantifiable metrics were to get the state machine created, finish the menu 
 
 ## Successes
 - Code was added to procedurally pick a location on the map and generate a campsite there which will serve as the spawn point for the players along with adding in the playing spawning mechanics. Brandon and Carlton worked on this and took 2 hours.
--Code was added to place resource objects on the map including rocks, grass, and trees. Brandon implemented this in 4 hours.
+- Code was added to place resource objects on the map including rocks, grass, and trees. Brandon implemented this in 4 hours.
 - State machine abstraction and behaviour frameworks were developed. This took Andey about 8 hours
 - Plans for the state machine transition system began being developed. Andey spent 3 hours on this.
 - The key exchange protocol was worked on for a few hours. It has yet to reach the functional state. Andey spent 2 hours on it.
@@ -44,23 +44,23 @@ Our quantifiable metrics were to get the state machine created, finish the menu 
 - Work with Andey to implement behavior controllers
 
 ### Carlton:
-Crafting and Inventory System 
-Fix Camera Occlusion (rendering only what is needed)
-World and Object interaction
-Menus
-Work on menus with James
-Sound integration
-Bug Fixing 
+- Crafting and Inventory System 
+- Fix Camera Occlusion (rendering only what is needed)
+- World and Object interaction
+- Menus
+- Work on menus with James
+- Sound integration
+- Bug Fixing 
 
 ### James:
-Create Title Screen Art
-Make Host/Find Game Menu Art
-Make 3D Tent, Fire, Grass, Rocks
-Aid in Sound Design
-Make Sasquatch Sprite
-Create Animated Water texture and put on top of water tile
-Make extra custom 3D items from list
-Work on inventory system with Carlton
+- Create Title Screen Art
+- Make Host/Find Game Menu Art
+- Make 3D Tent, Fire, Grass, Rocks
+- Aid in Sound Design
+- Make Sasquatch Sprite
+- Create Animated Water texture and put on top of water tile
+- Make extra custom 3D items from list
+- Work on inventory system with Carlton
 
 
 ## Confidence Levels
