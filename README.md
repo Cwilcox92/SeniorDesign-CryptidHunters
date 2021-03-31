@@ -5,3 +5,6 @@
 
 - [Update Two](https://github.com/JSchuch2/SeniorDesign-CryptidHunters/blob/main/Status%20Updates/Second%20Update/status2.md)
   - [Video Discussion](https://youtu.be/Tit6x9mfYM0)
+
+- [Update Three](https://github.com/JSchuch2/SeniorDesign-CryptidHunters/blob/main/Status%20Updates/Third%20Update/status3.md)
+  - [Video Discussion](https://youtu.be/-A0y3QM4B3g)
