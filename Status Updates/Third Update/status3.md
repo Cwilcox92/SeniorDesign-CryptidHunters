@@ -23,7 +23,7 @@ Our quantifiable metrics were to get the state machine created, finish the menu 
 ## Challenges
 
 - Networking behaviour was and has been very wacky and sometimes unpredictable causing more time to be devoted to ironing out the player movement.
--When multiple players are in the same game, the server is unable to give each of their terrain generators the same seed causing each player to see a different map. Brandon and Carlton spent 3 hours trying to fix this but were unable to find a solution as of yet.
+- When multiple players are in the same game, the server is unable to give each of their terrain generators the same seed causing each player to see a different map. Brandon and Carlton spent 3 hours trying to fix this but were unable to find a solution as of yet.
 
 - The key exchange protocol is not playing well with the network components. Some initial investigation and discussion amongst the team might suggest that the problem causing the difference in map seed might also be causing the issues in synchronizing and updating the weights.
 - Unity’s implementation/reference to C# is not as feature rich as the .NET C# leading to some challenges when trying to do more “backend” related tasks for bootstrapping the AI. 
