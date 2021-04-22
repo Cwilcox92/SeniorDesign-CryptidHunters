@@ -4,7 +4,7 @@ This sprint has been very productive for us as a team! Our time was spent refini
 
 Key exchange protocol has been built. Artificial Intelligence Spawning has been created. Generation of resources has been refined. Lots of art has been completed.
 
-Our quantifiable metrics were to get the Key exchange protocol done, finish the crafting system, get near completion on art assets, and finish networked play.
+Our quantifiable metrics were to get the Key exchange protocol done, finish the crafting system, get near completion on art assets.
 
 ## Successes
 -	Camera and Player Movement touched up and refined. (1hr- Carlton and James)
