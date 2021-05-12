@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/Networking_&_Lobby_Scene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
